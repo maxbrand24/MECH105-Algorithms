@@ -4,7 +4,7 @@
 There is also error checking included.
 ---
 **Inputs:**
--A
+**A**
 ---
 **Outputs:**
 -L
