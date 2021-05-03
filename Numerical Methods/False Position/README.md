@@ -14,3 +14,4 @@ root - the estimated root location
 fx - the function evaluated at the root location
 ea - the approximate relative error (%)
 iter - how many iterations were performed
+ 
