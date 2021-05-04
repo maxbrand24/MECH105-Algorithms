@@ -1,6 +1,6 @@
 # False Position
 ---
-**Summary:** This MATLAB function estimates a root of a given function. 
+**Summary:** This MATLAB function estimates a root of a given function. It also checks to see if the function is positive when evaluated at endpoints, if so, it returns an error.
 ---
 **Inputs:**
 
