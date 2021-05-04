@@ -3,8 +3,10 @@
 **Summary:** This MATLAB function determines the LU Factorization of a square matrix The algorithm will use partial pivoting.
 There is also error checking included.
 ---
+
 **Inputs:**
-**A**
+-A
+
 ---
 **Outputs:**
 -L
