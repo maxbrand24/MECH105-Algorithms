@@ -5,10 +5,10 @@ There is also error checking included.
 ---
 
 **Inputs:**
--A
+- A
 
 ---
 **Outputs:**
--L
--U
--P
+- L
+- U
+- P
