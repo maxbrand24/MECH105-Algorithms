@@ -1,1 +1,9 @@
-This algorithm converts a number in base 10 to binary(base 2). The input is a base 10 number and the output will be a base 2 array. 
+# Binary Converter
+---
+**Summary:** This algorithm converts a number in base 10 to binary(base 2) and displays an array. 
+---
+**Input:**
+- A base10 number
+---
+**Output:**
+- A base2 number in an array
